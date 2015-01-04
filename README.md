@@ -1,15 +1,14 @@
-ImplementaÁ„o/EspecificaÁ„o do cl·ssico problema do Jantar dos FilÛsofos em NuSMV
-=================================================================================
+Implementa√ß√£o/Especifica√ß√£o do cl√°ssico problema do Jantar dos Fil√≥sofos em NuSMV
+---------------------------------------------------------------------------------
 
 
-Problema
---------
+####Problema
 
-Lingu·gem usada
----------------
 
-SymbÛlic Model Checking
------------------------
+####Linguagem usada
+
+####Symb√≥lic Model Checking
+
 
 
 * Marino Hohenheim [@marinofull](http://github.com/marinofull)
