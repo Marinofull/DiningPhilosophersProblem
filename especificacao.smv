@@ -43,9 +43,9 @@ ASSIGN
 	init (fork4) := ready;
 
 DEFINE
-	starvation := phil0.state = thinking; 
-	
+	donoteat := phil0.state = thinking;
+
 SPEC AG (phil0.state = thinking -> AF (phil0.state = eating));
 SPEC EG (phil0.state = thinking -> AF (phil0.state = eating));
 SPEC EX (phil0.state = thinking -> AF (phil0.state = eating));
-SPEC AG (starvation)
+SPEC AG (donoteat)
